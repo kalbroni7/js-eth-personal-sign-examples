@@ -5,18 +5,19 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "browserify -t brfs index.js -o bundle.js"
+    "build": "browserify -t brfs index.js -o bundle.js",
+    "serve": "anywhere 8890"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/flyswatter/js-eth-personal-sign-examples.git"
+    "url": "git+https://github.com/binance-chain/js-eth-personal-sign-examples.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/flyswatter/js-eth-personal-sign-examples/issues"
+    "url": "https://github.com/binance-chain/js-eth-personal-sign-examples/issues"
   },
-  "homepage": "https://github.com/flyswatter/js-eth-personal-sign-examples#readme",
+  "homepage": "https://github.com/binance-chain/js-eth-personal-sign-examples#readme",
   "dependencies": {
     "eth-sig-util": "^2.3.0",
     "ethereumjs-util": "^5.1.1",
