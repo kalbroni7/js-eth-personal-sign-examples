@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/binance-chain/js-eth-personal-sign-examples#readme",
   "dependencies": {
-    "eth-sig-util": "^2.3.0",
+    "eth-sig-util": "^2.5.4",
     "ethereumjs-util": "^5.1.1",
     "ethjs": "^0.3.0"
   },
