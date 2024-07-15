@@ -21,7 +21,7 @@
   "dependencies": {
     "eth-sig-util": "^2.3.0",
     "ethereumjs-util": "^5.1.1",
-    "ethjs": "^0.3.0"
+    "ethjs": "^0.4.0"
   },
   "devDependencies": {
     "babel-runtime": "^6.26.0",
